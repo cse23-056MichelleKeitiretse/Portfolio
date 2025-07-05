@@ -2,72 +2,89 @@
 
 A modern, responsive portfolio website showcasing frontend development projects and skills.
 
-## Features
+## 🌟 Features
 
-- Clean, modern design with glassmorphism effects
-- Responsive layout for all devices
-- Interactive project showcase
-- Skills and technologies display
-- Contact form
-- Particle.js background effects
-- Smooth animations and transitions
+- 🎨 Clean, modern design with glassmorphism effects
+- 📱 Fully responsive layout
+- 🎮 Interactive project showcase
+- 🛠️ Skills and technologies display
+- ✉️ Contact form
+- 🎯 Smooth animations and transitions
+- 🎨 Custom CSS animations
+- 🎯 SEO-optimized content
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (with custom properties for theming)
-- JavaScript
-- Font Awesome icons
-- Particles.js for background effects
-- Google Fonts
+- 📝 HTML5
+- 🎨 CSS3 (with custom properties)
+- 🔄 JavaScript (Vanilla)
+- 🎨 Font Awesome 6.4.0
+- 📱 Google Fonts (Poppins, Montserrat)
+- 🎨 Custom CSS animations
+- 🎨 CSS Grid & Flexbox
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 MyPortfolio/
-├── index.html
-├── images/
-│   ├── gamehub.png
-│   ├── serenemoments.png
-│   └── studytrack.png
-├── README.md
-└── style.css
+├── index.html              # Main HTML file
+├── images/                 # Project screenshots
+│   ├── ReadEasy.png
+│   ├── ubuntu.png
+│   ├── studytrack.png
+│   └── portfolio.jpg
+├── README.md              # Project documentation
+└── style.css              # CSS styles (inline in index.html)
 ```
 
-## Projects Featured
+## 🎮 Featured Projects
 
-1. **Game Hub**
-   - Modern gaming platform
-   - Built with React, Redux, GraphQL
-   - Features real-time analytics
+### 1. ReadEasy+
+- **Tech Stack**: HTML/CSS, JavaScript, Web Speech API
+- **Features**: Accessibility-focused web app for dyslexia and visual impairments
+- **Status**: In Progress (90% complete)
+- **Links**: 
+  - [GitHub](https://github.com/LoneMoloi/ReadEasy-)
+  - [Live Demo](https://lonemoloi.github.io/ReadEasy-/)
 
-2. **Serene Moments**
-   - Mental health tracking application
-   - Built with Vue.js and Firebase
-   - AI-powered wellness recommendations
+### 2. Ubuntu Banking
+- **Tech Stack**: React, Firebase, Financial APIs, Tailwind CSS
+- **Features**: Financial inclusion platform with community lending
+- **Status**: In Progress (75% complete)
+- **Links**: 
+  - [GitHub](https://cse23-056michellekeitiretse.github.io/ubuntu-stokvel-connect/)
+  - [Live Demo](https://ubuntu-stokvel-connect.lovable.app)
 
-3. **Study Track**
-   - Academic tracking dashboard
-   - Built with React and Node.js
-   - Assignment and reading tracking
+### 3. StudyTrack
+- **Tech Stack**: Node.js, MongoDB, HTML5/CSS3
+- **Features**: Academic management system with assignment tracking
+- **Status**: In Progress (60% complete)
+- **Links**: 
+  - [GitHub](#)
+  - [Live Demo](#)
 
-## Getting Started
+## 🚀 Getting Started
 
 1. Clone the repository
 2. Open `index.html` in a modern web browser
-3. View the portfolio and explore the projects
+3. Explore the portfolio and projects
 
-## Browser Support
+## 📱 Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## License
+## 📝 License
 
 This project is for personal use and demonstration purposes only.
 
-## Contact
+## 📞 Contact
 
-For any questions or feedback, please contact me through the contact form on the portfolio website.
+For any questions or feedback:
+- Email: michellekeitiretse@gmail.com/cse23-056@thuto.bac.ac.bw
+- Phone: +267 72990391
+- LinkedIn: [Michelle Keitiretse](https://www.linkedin.com/in/michelle-keitiretse-88161531a/)
+- GitHub: [github.com/cse23-056MichelleKeitiretse](https://github.com/cse23-056MichelleKeitiretse)
+- Location: Gaborone, Botswana
