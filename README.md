@@ -1,90 +1,31 @@
-# Michelle Keitiretse's Portfolio
+# Michelle Keitiretse's Portfolio 👩🏽‍💻
 
-A modern, responsive portfolio website showcasing frontend development projects and skills.
+A modern, responsive portfolio showcasing frontend and full-stack development projects, skills, and hands-on experience in building practical, user-focused systems.
+
+---
 
 ## 🌟 Features
+- 🎨 Clean, modern design with glassmorphism effects  
+- 📱 Fully responsive layout (desktop, tablet, mobile)  
+- 🎮 Interactive project showcase  
+- 🛠️ Skills and technologies display  
+- ✉️ Contact form for inquiries  
+- 🎯 Smooth animations and transitions  
+- 🎨 Custom CSS animations  
+- 🎯 SEO-optimized content  
 
-- 🎨 Clean, modern design with glassmorphism effects
-- 📱 Fully responsive layout
-- 🎮 Interactive project showcase
-- 🛠️ Skills and technologies display
-- ✉️ Contact form
-- 🎯 Smooth animations and transitions
-- 🎨 Custom CSS animations
-- 🎯 SEO-optimized content
+---
 
 ## 🛠️ Technologies Used
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 
-- 📝 HTML5
-- 🎨 CSS3 (with custom properties)
-- 🔄 JavaScript (Vanilla)
-- 🎨 Font Awesome 6.4.0
-- 📱 Google Fonts (Poppins, Montserrat)
-- 🎨 Custom CSS animations
-- 🎨 CSS Grid & Flexbox
+---
 
 ## 📁 Project Structure
-
-```
-MyPortfolio/
-├── index.html              # Main HTML file
-├── images/                 # Project screenshots
-│   ├── ReadEasy.png
-│   ├── ubuntu.png
-│   ├── studytrack.png
-│   └── portfolio.jpg
-├── README.md              # Project documentation
-└── style.css              # CSS styles (inline in index.html)
-```
-
-## 🎮 Featured Projects
-
-### 1. ReadEasy+
-- **Tech Stack**: HTML/CSS, JavaScript, Web Speech API
-- **Features**: Accessibility-focused web app for dyslexia and visual impairments
-- **Status**: In Progress (90% complete)
-- **Links**: 
-  - [GitHub](https://github.com/LoneMoloi/ReadEasy-)
-  - [Live Demo](https://lonemoloi.github.io/ReadEasy-/)
-
-### 2. Ubuntu Banking
-- **Tech Stack**: React, Firebase, Financial APIs, Tailwind CSS
-- **Features**: Financial inclusion platform with community lending
-- **Status**: In Progress (75% complete)
-- **Links**: 
-  - [GitHub](https://cse23-056michellekeitiretse.github.io/ubuntu-stokvel-connect/)
-  - [Live Demo](https://ubuntu-stokvel-connect.lovable.app)
-
-### 3. StudyTrack
-- **Tech Stack**: Node.js, MongoDB, HTML5/CSS3
-- **Features**: Academic management system with assignment tracking
-- **Status**: In Progress (60% complete)
-- **Links**: 
-  - [GitHub](#)
-  - [Live Demo](#)
-
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Open `index.html` in a modern web browser
-3. Explore the portfolio and projects
-
-## 📱 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 📝 License
-
-This project is for personal use and demonstration purposes only.
-
-## 📞 Contact
-
-For any questions or feedback:
-- Email: michellekeitiretse@gmail.com/cse23-056@thuto.bac.ac.bw
-- Phone: +267 72990391
-- LinkedIn: [Michelle Keitiretse](https://www.linkedin.com/in/michelle-keitiretse-88161531a/)
-- GitHub: [github.com/cse23-056MichelleKeitiretse](https://github.com/cse23-056MichelleKeitiretse)
-- Location: Gaborone, Botswana
